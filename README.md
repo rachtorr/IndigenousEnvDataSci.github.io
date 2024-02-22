@@ -1,10 +1,5 @@
-# Ecological Forecasting Initative Taskviews
+# R modules for environmental indigenous data science 
 
-The goal of the taskviews are to provide a curated list of resources for accomplishing tasks associated with ecological forecasting
+## building a website to compile resources and share contact info 
 
-## How to contribute
-
-1) Fork the repository
-2) Modify the Rmd file(s) in the top level directory
-3) Submit a pull request
-
+more info to come

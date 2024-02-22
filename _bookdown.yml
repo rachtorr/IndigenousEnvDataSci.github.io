@@ -1,7 +1,7 @@
 book_filename: "bookdown-start"
-repo: https://github.com/eco4cast/neon4cast-taskviews
+repo: https://github.com/rachtorr/efi_bookdown_template
 output_dir: docs
-rmd_files: ["index.Rmd", "workflows.Rmd", "stat_unc.Rmd","visualization.Rmd"]
+rmd_files: ["index.Rmd", "contact.Rmd", "water_qual.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
 

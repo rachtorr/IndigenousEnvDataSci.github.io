@@ -1,5 +1,5 @@
 --- 
-title: "R for environmental Indigenous data science"
+title: "R for environmental indigenous data science"
 author: "Ecological Forecasting Initiative and Friends"
 date: "Last modified: `r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -15,13 +15,13 @@ header-includes:
     \includegraphics[width=2in,height=2in]{images/EFI_Logo-1.jpg}\LARGE\\}
   - \posttitle{\end{center}}
 ---
+# Welcome {-}
 
 <center>
 ![](images/EFI_Logo-1.jpg){width=25%} 
 </center>
 
-# Introduction {-}
 
-paragraph to summarize goals of sloan grant
+paragraph to summarize description and goals of sloan grant
 
 

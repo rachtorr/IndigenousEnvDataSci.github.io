@@ -13,7 +13,7 @@ More environmental justice and data science modules for learning R with case stu
     - time series plots 
     - data for decision making
   
-3. [Bison:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod3_Bison): analyzing plant biomass for sustaining bison reintroduction
+3. [Bison:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod3_Bison) analyzing plant biomass for sustaining bison reintroduction
     - merging and grouping data 
     - unit conversions 
     - data visualization and exploration 

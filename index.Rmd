@@ -17,9 +17,7 @@ header-includes:
 ---
 # Welcome {-}
 
-<center>
-![](images/EFI_Logo-1.jpg){width=25%} 
-</center>
+
 
 
 paragraph to summarize description and goals of sloan grant

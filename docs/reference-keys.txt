@@ -9,3 +9,5 @@ about-the-data
 about-the-code
 acknowledgements
 ej-ds2023
+more-ej-modules
+the-ecological-forecasting-initiative-efi-is-a-grassroots-consortium-aimed-at-building-and-supporting-an-interdisciplinary-community-of-practice-around-near-term-daily-to-decadal-ecological-forecasts.-visit-the-ecological-forecasting-initiative-website-and-check-out-efis-compilation-of-educational-resources-here.

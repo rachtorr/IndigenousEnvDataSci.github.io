@@ -12,3 +12,18 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+/* Flex container */
+.flex-container {
+  display: flex;
+}
+
+/* Flex items */
+.flex-item {
+  flex: 1;
+}
+
+/* Adjust padding between items */
+.flex-item + .flex-item {
+  margin-left: 20px; /* Adjust as needed */
+}

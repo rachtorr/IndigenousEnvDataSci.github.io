@@ -1,9 +1,8 @@
 
 # K_aviCode: Visualizing water quality data with culturally relevant sites
 
-This repository contains R files for the AIHEC 2024 data science workshop, adopted from the Geoscience Alliance 2022 data science workshop.
+[Link to github repo:](https://github.com/IndigenousEnvDataSci/WaterQuality_mod1.git) download files or fork and edit 
 
-**insert link to github repo or place to download files here**
 
 ## Background Info 
 

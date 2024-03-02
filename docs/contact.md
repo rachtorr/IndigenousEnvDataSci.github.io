@@ -1,14 +1,29 @@
 # About us 
 
-Interested in getting involved? using material or hosting a workshop? Contact us! 
-Contact email: 
+We are an interdisciplinary, multi-institutional collaboration with the goal to increase equitable access to earth and environmental data science graduate pathways for Native American students. Our project involves developing, testing, and supporting culturally-centered environmental data science curriculum for classrooms, labs, and workshops via online modules and educational resources.   
 
-Visit the [Ecological Forecasting Initiative website](https://ecoforecast.org/), and check out EFI's compilation of educational resources [here](https://ecoforecast.org/resources/educational-resources/).
+**Our collaboration includes:**
 
 
-### photos, emails, links to websites, etc.
+knitr::include_graphics("images/EFI_Logo-1.jpg")
 
-### People 
+![](images/EFI_Logo-1.jpg)
+
+The Ecological Forecasting Initiative (EFI) is a grassroots consortium aimed at building and supporting an interdisciplinary community of practice around near-term (daily to decadal) ecological forecasts. Visit the [Ecological Forecasting Initiative website](https://ecoforecast.org/), and check out EFI's compilation of educational resources [here](https://ecoforecast.org/resources/educational-resources/).
+
+
+
+
+
+<left>
+![](images/GeoScienceAllianceLogo.jpg){width=25%}
+</left>
+
+[Geoscience Alliance](https://geosciencealliance.org/) is a national alliance of individuals committed to broadening the participation of Native Americans, Alaska Natives, and people of Native Hawai’ian ancestry in the geosciences. 
+
+Native Food Energy Water Systems 
+
+
  - Jason McLachlan, University of Notre Dame 
  - Jody Peters, University of Notre Dame 
  - Nievita Bueno Watts, Cal-Poly Humboldt 
@@ -17,7 +32,16 @@ Visit the [Ecological Forecasting Initiative website](https://ecoforecast.org/),
  - Melissa Kenney, University of Minnesota
  - Al Kuslikis, American Indian Higher Education Consortium
  - Antionette Abeyta, University of New Mexico, Gallup
+ - Sean Dorr, University of Minnesota 
  
+**Contact us**
+
+Interested in learning more or getting involved? Want to use material, host a workshop, or collaborate on new material? Contact us!
+
+Contact Dr. Rachel Torres at Rachel.Torres@humboldt.edu 
+
  
+**Support**
+
 This project is supported by funding from the Alfred P. Sloan Foundation. 
  

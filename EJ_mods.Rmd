@@ -1,4 +1,28 @@
 
-# EJ-DS2023 
+# More EJ modules
 
-https://github.com/JasonMcLachlan/EJ-DS2023
+More environmental justice and data science modules for learning R with case studies of the K'avi tribe are in development. These modules are currently being used for labs in a course at SKC, and we will continue to develop them as we receive feedback. 
+
+1. [Fisheries:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod1_Fish) monitoring fish growth rates and mercury concentrations 
+    - summarizing data
+    - scatter plots 
+    - data visualization for communication 
+
+2. [Water quality and species reintroduction:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod2_water) comparing stream site conditions for bull trout
+    - tidy data
+    - time series plots 
+    - data for decision making
+  
+3. [Bison:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod3_Bison): analyzing plant biomass for sustaining bison reintroduction
+    - merging and grouping data 
+    - unit conversions 
+    - data visualization and exploration 
+    
+4. [Forestry:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod4_Forestry) managing and harvesting a douglas fir forest 
+    - data exploration and summarization 
+    - combining datasets
+    - visualization and decision making 
+
+
+
+[Link to github repo:](https://github.com/IndigenousEnvDataSci/EJ-DS) contains all of the above folders. We will continue to update this site with more context for each module and information for instructors. 

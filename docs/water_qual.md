@@ -1,13 +1,13 @@
 
-# K_aviCode: Visualizing water quality data with culturally relevant sites
+# K'avi Code: Visualizing water quality data with culturally relevant sites
 
-This repository contains R files for the AIHEC 2024 data science workshop, adopted from the Geoscience Alliance 2022 data science workshop.
+[Link to github repo:](https://github.com/IndigenousEnvDataSci/WaterQuality_mod1.git) download files or fork and edit 
 
-**insert link to github repo or place to download files here**
+This activity was recently modified for a day-long data science workshop at the AIHEC/NFEWS meeting in Minneapolis, MN, March 2024. 
 
 ## Background Info 
 
-The EPA is the single biggest funder of tribal water quality programs and that tribes often hire consultants because they do not have staff trained in data analysis.  As a result, funds that should stay on the Reservation often flow outward and at greatly inflated costs. This workshop us based on a course at Salish-Kootenai College (SKC), developed by Georgia Smies, and aims to bridge the gap to train students in data analysis. Georgia wrote the background included below. 
+The EPA is the single biggest funder of tribal water quality programs and that tribes often hire consultants because they do not have staff trained in data analysis.  As a result, funds that should stay on the Reservation often flow outward and at greatly inflated costs. This workshop us based on a course at Salish-Kootenai College (SKC), developed by Georgia Smies, and aims to bridge the gap to train students in data analysis. Georgia wrote the background included here. 
 
 **EPA Reporting Requirements**
 

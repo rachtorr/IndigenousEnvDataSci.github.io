@@ -35,7 +35,19 @@ library(lubridate)
 ```
 To check if the packages have installed correctly, navigate over to the “Packages” tab in the bottom right window of RStudio and see if there is a checked box next to tidyverse, janitor, and lubridate. Note that different workshops may require different packages, and you can always run `install.packages()` and `library()` to get new ones. 
 
+**References**
+
 The text in this section was adopted from the [MacrosystemsEDDIE Teaching Materials](https://macrosystemseddie.github.io/module1) in 'R You Ready for EDDIE? Module 1'. Check out their awesome work on modules for using R for ecological forecasting [here](https://serc.carleton.edu/eddie/macrosystems/index.html).
+
+Carey, C.C., S. Aditya, K. Subratie, V. Daneshmand, R. Figueiredo, and K.J. Farrell. 24 August 2020. Macrosystems EDDIE: Climate Change Effects on Lake Temperatures. Macrosystems EDDIE Module 1, Version 2. http://module1.macrosystemseddie.org. Module development was supported by NSF DEB 1245707, ACI 1234983, EF 1702506, DBI 1933016, and DEB 1926050.
+
+**R Packages**
+
+Firke S (2024). janitor: Simple Tools for Examining and Cleaning Dirty Data. R package version 2.2.0.9000, https://sfirke.github.io/janitor/, https://github.com/sfirke/janitor.
+
+Grolemund G, Wickham H (2011). “Dates and Times Made Easy with lubridate.” Journal of Statistical Software, 40(3), 1–25. https://www.jstatsoft.org/v40/i03/.
+
+Wickham H, Averick M, Bryan J, Chang W, McGowan LD, François R, Grolemund G, Hayes A, Henry L, Hester J, Kuhn M, Pedersen TL, Miller E, Bache SM, Müller K, Ooms J, Robinson D, Seidel DP, Spinu V, Takahashi K, Vaughan D, Wilke C, Woo K, Yutani H (2019). “Welcome to the tidyverse.” Journal of Open Source Software, 4(43), 1686. doi:10.21105/joss.01686.
 
 ## Resources to keep learning R 
 

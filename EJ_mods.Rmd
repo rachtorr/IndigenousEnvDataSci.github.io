@@ -1,7 +1,9 @@
 
-# More EJ modules
+# Environmental Justice modules {#EJ-section}
 
 More environmental justice and data science modules for learning R with case studies of the K'avi tribe are in development. These modules are currently being used for labs in a sophomore level Introduction to R Statistics course at Salish Kootenai College. These will continue to be developed as we receive feedback. 
+
+[Link to github repo:](https://github.com/IndigenousEnvDataSci/EJ-DS) contains all of the below activities as folders. We will continue to update this site with more context and information on each module for instructors. 
 
 1. [Fisheries:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod1_Fish) monitoring fish growth rates and mercury concentrations 
     - summarizing data
@@ -24,4 +26,3 @@ More environmental justice and data science modules for learning R with case stu
     - visualization and decision making 
 
 
-[Link to github repo:](https://github.com/IndigenousEnvDataSci/EJ-DS) contains all of the above folders. We will continue to update this site with more context and information for instructors for each module. 

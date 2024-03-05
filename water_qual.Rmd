@@ -1,5 +1,5 @@
 
-# K'avi Code: Visualizing water quality data with culturally relevant sites
+# K'avi Code: Visualizing water quality data with culturally relevant sites {#water-section}
 
 [Link to github repo:](https://github.com/IndigenousEnvDataSci/WaterQuality_mod1.git) download files or fork and edit 
 

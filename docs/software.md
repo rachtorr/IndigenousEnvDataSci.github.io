@@ -1,5 +1,5 @@
 
-# Getting started with R 
+# Getting started with R {#R-section}
 
 1. Download and install R and RStudio
     - Go to the [R website](https://www.r-project.org). Then, under the Getting Started section, click on the link that says download R.

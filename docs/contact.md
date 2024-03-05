@@ -1,12 +1,12 @@
-# About us 
+# About us {#about-section}
 
-We are an interdisciplinary, multi-institutional collaboration with the goal to increase equitable access to earth and environmental data science graduate pathways for Native American students. Our project involves developing, testing, and supporting culturally-centered environmental data science curriculum for classrooms, labs, and workshops via online modules and educational resources.   
+We are an interdisciplinary, multi-institutional collaboration with the goal to increase equitable access to earth and environmental data science graduate pathways for Native American students. Our project involves developing, testing, and supporting culturally-centered environmental data science curriculum for classrooms, labs, and workshops via online modules and educational resources. Materials have been developed for Indigenous students with beginner level coding skills, and we encourage instructors with non-Indigenous students to be thoughtful and respectful about using the material.  
 
 **Contact us**
 
 Interested in learning more or getting involved? Want to use material, host a workshop, or collaborate on new material? Contact us!
 
-Contact Dr. Rachel Torres at Rachel.Torres@humboldt.edu 
+Email Dr. Rachel Torres at Rachel.Torres@humboldt.edu 
 
 **Our collaboration includes:**
 
@@ -16,7 +16,6 @@ Contact Dr. Rachel Torres at Rachel.Torres@humboldt.edu
  - Diana Dalbotten, University of Minnesota
  - Georgia Smies, Salish Kootenai College
  - Melissa Kenney, University of Minnesota
- - Al Kuslikis, American Indian Higher Education Consortium
  - Antionette Abeyta, University of New Mexico, Gallup
  - Sean Dorr, University of Minnesota 
 

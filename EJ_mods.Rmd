@@ -1,26 +1,80 @@
 
 # Environmental Justice modules {#EJ-section}
 
-More environmental justice and data science modules for learning R with case studies of the K'avi tribe are in development. These modules are currently being used for labs in a sophomore level Introduction to R Statistics course at Salish Kootenai College. These will continue to be developed as we receive feedback. 
+Environmental justice and data science modules for learning R with case studies of the K'avi tribe are in development. Modules 1-3 are currently being used for labs in a sophomore level Introduction to R Statistics course at Salish Kootenai College. The content builds progressively, so it is recommended to use these in order. These will continue to be developed as we receive feedback. 
 
 [Link to github repo:](https://github.com/IndigenousEnvDataSci/EJ-DS) contains all of the below activities as folders. We will continue to update this site with more context and information on each module for instructors. 
 
-1. [Fisheries:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod1_Fish) monitoring fish growth rates and mercury concentrations 
+Click here to jump to the module: 
+1. [Fisheries and methylmercury]() 
+2. Water quality and species reintroduction
+3. Bison 
+4. Forestry 
+
+## Getting Set Up 
+
+Files are available to download directly from GitHub. To set up to use these modules in a course setting, there are a couple of options: 
+
+- Set up working directory using `setwd()` to the folder where files are located 
+- Create a New R project by selecting 'Existing Directory' and entering the downloaded the folder location 
+
+
+## 1. [Fisheries:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod1_Fish) monitoring fish growth rates and mercury concentrations 
+
+Members of the K’avi have fished the waters on their land for many years to provide food for their community. To manage these waters, K'avi tribal fishery managers have been monitoring fish growth rates across the local water bodies in their community. 
+
+However, many members of the community have begun to experience health problems associated with heavy metal poisoning. Historically, a factory used to be located upstream of the riverways fished by the K’avi, and waste from this factory was dumped into the nearby waters. Tribal fishery managers are now concerned that members of the community are being exposed to heavy metals through the fish that have been caught in these waters. As a result, they now want to start recording the concentrations of methylmercury in the belly fat of fish in the area. The tribe uses guidance from the Environmental Protection Administration (EPA), who have determined a Reference Dose (RfD) of methylmercury based on body weight at 0.1ug per kg of body weight. Additionally, the Food and Drug Administration recommends eating no more than 0.46ug methylmercury/g of fish within a week ([FDA](https://www.fda.gov/food/environmental-contaminants-food/technical-information-development-fdaepa-advice-about-eating-fish-those-who-might-become-or-are)). Health hazards depend on how much a person consumes as well as their size, the RfD could range between 0.3ug per day for nursing mothers to 6.8ug for someone weighing 150 lbs. These values are explored more in the code.  
+
+Back in 1998, the tribal fisheries managers caught fish and measured their length and also the concentration of mercury in the fish. The goals of these managers was to learn how common it was for concentrations of mercury to be above the safety level of 4ug/kg.
+
+Once they collect these data, the tribal fishery managers will need to present their findings to members of the community so they can better understand the public health crisis at hand. 
+
+### Module goals:
+
+1. Explore data related to fish growth and heavy metal concentrations.
+2. Explore K'avi community health data.
+3. Connect these datasets and produce a graph that could be used to communicate the fishery managers' findings to their community. 
+
+### Learning goals:
+
+1. Students become more comfortable opening R and loading in data from an 
+external data file. 
+  
+2. Students gain exposure to basic commands to explore their data before 
+they begin to analyze it. 
+
+3. Students gain experience loading in packages (tidyverse and ggplot). 
+
+4. Students gain exposure to working with different data types(numeric, characters)
+
+5. Students gain exposure to basic summary statistic arguments in R to pull the 
+mean, median, max, and min values for different variables in the dataset. 
+
+6. Students become equipped with how to make a graph in R (tidyverse, ggplot) 
+using variables pulled from a larger dataset. Can open a discussion point: 
+how do we present data in a way that can help us understand the problem at hand?
+(i.e. in this case, it may be plotting mercury concentrations found in fish 
+along different sites, and showing it next to a graph of mercury found in people
+across different sites)
+
+### Data science topics covered: 
+
+    - Using R for math 
     - summarizing data
     - scatter plots 
-    - data visualization for communication 
+    - data visualization 
 
-2. [Water quality and species reintroduction:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod2_water) comparing stream site conditions for bull trout
+## 2. [Water quality and species reintroduction:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod2_water) comparing stream site conditions for bull trout
     - tidy data
     - time series plots 
     - data for decision making
   
-3. [Bison:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod3_Bison) analyzing plant biomass for sustaining bison reintroduction
+## 3. [Bison:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod3_Bison) analyzing plant biomass for sustaining bison reintroduction
     - merging and grouping data 
     - unit conversions 
     - data visualization and exploration 
     
-4. [Forestry:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod4_Forestry) managing and harvesting a douglas fir forest 
+## 4. [Forestry:](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod4_Forestry) managing and harvesting a douglas fir forest 
     - data exploration and summarization 
     - combining datasets
     - visualization and decision making 

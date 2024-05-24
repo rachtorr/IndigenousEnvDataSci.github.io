@@ -27,3 +27,11 @@ pre code {
 .flex-item + .flex-item {
   margin-left: 20px; /* Adjust as needed */
 }
+
+.header-photo {
+  background-image: url('images/header-photo.jpg'); /* Replace 'path/to/header-photo.jpg' with the path to your photo */
+  background-size: cover;
+  background-position: top;
+  height: 200px; /* Adjust the height as needed */
+  width: 100%;
+}

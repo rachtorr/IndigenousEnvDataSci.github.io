@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Introduction
+    chapters:
+      - file: markdown
+        title: "Welcome"
+      - file: learn_R
+        title: "Getting started wtih R"
+  - caption: 1. Introduction to R with Fisheries
+    chapters:
+      - file: fisheries
+        title: "Intro to Fish Module"
+        sections:
+          - file: Mod1_Fish

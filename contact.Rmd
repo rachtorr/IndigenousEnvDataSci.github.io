@@ -21,7 +21,7 @@ Email Dr. Rachel Torres at Rachel.Torres@humboldt.edu
  - Antionette Abeyta, University of New Mexico, Gallup
  - Chad Smith, University of New Mexico, Gallup
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vCeyEW9NLjx9LsJhYWviUXfsDOK82B0&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 ::: {.floatting}
 

@@ -9,7 +9,7 @@ parts:
       - file: contact
         title: "About us"
       - file: learn_R
-        title: "Getting started wtih R"
+        title: "Getting started"
       - file: kavi_intro
         title: Story of K'avi code 
   - caption: "Environmental Justice Data Science Modules"
@@ -17,4 +17,8 @@ parts:
       - file: MOD1/mod1_intro
         title: "Module 1: Monitoring fisheries for heavy metal contaminants"
         sections:
-          - file: MOD1/Mod1_Fish
+          - file: MOD1/Mod1_pt1
+          - file: MOD1/Mod1_pt2
+          - file: MOD1/Mod1_pt3
+          - file: MOD1/Mod1_pt4
+          - file: MOD1/Mod1_pt5

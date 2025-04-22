@@ -1,5 +1,30 @@
 
-# Getting started with R
+# Getting Started 
+
+This content is an open resource for use in whichever platform is most accessible to you. The programming language we use is R, but it can be ran on any of these options: Google Colab, JupyterHub, or in Rstudio. See more details here on how to access these. 
+
+## Google Colab 
+
+Google Colab is a free web based platform for running and sharing code. In the following pages, you'll be able to open any page with code on it in Google Colab using the rocketship icon in the upper right hand corner. 
+
+![](images/colab_button.png)
+
+
+Read more about Google Colab [here](https://research.google.com/colaboratory/faq.html).
+
+## Jupyter Notebook 
+
+Jupyter Notebook is a web application for computational documents (you can identify these file types that end in `.ipynb`). Note that if using on your personal computer, you will need to have the [R kernel](https://github.com/IRkernel/IRkernel) installed. 
+
+This is a good option if your university already has a JupyterHub that you have access to. 
+
+Read more about Jupyter Notebook [here](https://jupyter.org/). 
+
+## R and RStudio 
+
+If you do not already have R and Rstudio on your computer, you will need to download them. If you do have them, start at step 3, installing and loading the packages. 
+
+About Rmarkdown. 
 
 1. Download and install R and RStudio
     - Go to the [R website](https://www.r-project.org). Then, under the Getting Started section, click on the link that says download R.
@@ -22,7 +47,6 @@ To install the packages, copy and paste the following lines of code to the right
 
 ```
 install.packages("tidyverse")
-install.packages("janitor")
 install.packages("lubridate")
 ```
 
@@ -30,10 +54,11 @@ As you’re installing the packages, you might see a lot of red output messages.
 
 ```
 library(tidyverse)
-library(janitor)
 library(lubridate)
 ```
 To check if the packages have installed correctly, navigate over to the “Packages” tab in the bottom right window of RStudio and see if there is a checked box next to tidyverse, janitor, and lubridate. Note that different workshops may require different packages, and you can always run `install.packages()` and `library()` to get new ones. 
+
+After loading `tidyverse` you may receive a message in your console about conflicts - this means that there are functions with the same name but from different packages. For these activities, it should not matter because we will mainly be using `tidyverse`. You will need to rerun loading the packages each time you restart RStudio, and you'll find the first step in our workflows always start with that.  
 
 **References**
 
@@ -42,8 +67,6 @@ The text in this section was adopted from the [MacrosystemsEDDIE Teaching Materi
 Carey, C.C., S. Aditya, K. Subratie, V. Daneshmand, R. Figueiredo, and K.J. Farrell. 24 August 2020. Macrosystems EDDIE: Climate Change Effects on Lake Temperatures. Macrosystems EDDIE Module 1, Version 2. http://module1.macrosystemseddie.org. Module development was supported by NSF DEB 1245707, ACI 1234983, EF 1702506, DBI 1933016, and DEB 1926050.
 
 **R Packages**
-
-Firke S (2024). janitor: Simple Tools for Examining and Cleaning Dirty Data. R package version 2.2.0.9000, https://sfirke.github.io/janitor/, https://github.com/sfirke/janitor.
 
 Grolemund G, Wickham H (2011). “Dates and Times Made Easy with lubridate.” Journal of Statistical Software, 40(3), 1–25. https://www.jstatsoft.org/v40/i03/.
 

@@ -2,9 +2,11 @@
 
 Members of the K'avi have fished the waters on their land for many years to provide food for their community. To manage these waters, K'avi tribal fishery managers have been monitoring fish growth rates across the local water bodies in their community. 
 
-However, many members of the community have begun to experience health problems associated with heavy metal poisoning. Historically, a factory used to be located upstream of the riverways fished by the K'avi, and waste from this factory was dumped into the nearby waters. Tribal fishery managers are now concerned that members of the community are being exposed to heavy metals through the fish that have been caught in these waters. As a result, they now want to start recording the concentrations of methylmercury in the belly fat of fish in the area. The tribe uses guidance from the Environmental Protection Administration (EPA), who have determined a Reference Dose (RfD) of methylmercury at 0.1ug per kg of body weight. Additionally, the Food and Drug Administration recommends eating no more than 0.46ug methylmercury/g of fish within a week ([FDA](https://www.fda.gov/food/environmental-contaminants-food/technical-information-development-fdaepa-advice-about-eating-fish-those-who-might-become-or-are)). Health hazards depend on how much fish a person consumes as well as their size, so the RfD could range between 0.3ug per day for nursing mothers to 6.8ug for someone weighing 150 lbs. These values are explored more in the code.  
+However, many members of the community have begun to experience health problems associated with heavy metal poisoning. Historically, a factory used to be located upstream of the riverways fished by the K'avi, and waste from this factory was dumped into the nearby waters. Tribal fishery managers are now concerned that members of the community are being exposed to heavy metals, like methylmercury, through the fish that have been caught in these waters. As a result, they now want to start recording the concentrations of methylmercury (mercury) in the belly fat of fish in the area. The tribe uses guidance from the Environmental Protection Administration (EPA), who have determined a Reference Dose (RfD) of mercury at 0.1ug per kg of body weight. 
 
-Back in 1998, the tribal fisheries managers caught fish and measured their length and also the concentration of mercury in the fish. The goals of these managers was to learn how common it was for concentrations of mercury to be above a safety level of 4ug/kg.
+Additionally, the Food and Drug Administration recommends eating no more than 0.46ug methylmercury/g of fish within a week ([FDA](https://www.fda.gov/food/environmental-contaminants-food/technical-information-development-fdaepa-advice-about-eating-fish-those-who-might-become-or-are)). Health hazards depend on how much fish a person consumes as well as their size, so the RfD could range between 0.15ug to 0.46ug. These values are explored more in the code.  
+
+Back in 1998, the tribal fisheries managers caught fish and measured their length and also the concentration of mercury in the fish. The goals of these managers was to learn how common it was for concentrations of mercury to be above a safety level of 0.46ug/g.
 
 Once they collect these data, the tribal fishery managers will need to present their findings to members of the community so they can better understand the public health crisis at hand. 
 
@@ -17,7 +19,7 @@ Once they collect these data, the tribal fishery managers will need to present t
 
 ## Module goals:
 
-1. Explore data related to fish growth and heavy metal concentrations.
+1. Explore data related to fish length and heavy metal concentrations.
 
 2. Summarize data relative the safety thresholds of mercury concentrations.
 

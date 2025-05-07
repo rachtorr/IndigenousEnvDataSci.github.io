@@ -22,3 +22,10 @@ parts:
           - file: MOD1/Mod1_pt3
           - file: MOD1/Mod1_pt4
           - file: MOD1/Mod1_pt5
+      - file: MOD2/mod2_intro
+        title: "Module 2: Exploring water quality for bull trout reintroduction"
+        sections:
+          - file: MOD2/Mod2_pt1
+          - file: MOD2/Mod2_pt2
+          - file: MOD2/Mod2_pt3
+          - file: MOD2/Mod2_pt4

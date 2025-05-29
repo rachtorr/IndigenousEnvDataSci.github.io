@@ -1,7 +1,9 @@
 
 # Getting Started 
 
-This content is an open resource for use in whichever platform is most accessible to you. The programming language we use is R, but it can be ran on any of these options: Google Colab, JupyterHub, or in Rstudio. See more details here on how to access these. 
+This content is an open resource for use in whichever platform is most accessible to you. The programming language we use is R, but it can be ran on any of these options: Google Colab, JupyterHub, or in Rstudio. See more details here on how to access these.
+
+**Link to Victoria's slides here as: Teacher's guide for setting up R and Rstudio with code from Github, also add to references at bottom**
 
 ## Google Colab 
 

@@ -3,7 +3,7 @@
 
 title: My sample book
 author: The Jupyter Book Community
-logo: "images/EFI_Logo-1.jpg"
+logo: "images/EFI_Logo_Whitetext_transparent.png"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

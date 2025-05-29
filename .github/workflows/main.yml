@@ -39,6 +39,7 @@ jobs:
     - name: Install IRkernel
       run: |
         R -e 'install.packages("IRkernel")'
+        R -e 'install.packages("tidyverse", dependencies = TRUE)'
         R -e 'IRkernel::installspec()'
         
     # (optional) Cache your executed notebooks between runs

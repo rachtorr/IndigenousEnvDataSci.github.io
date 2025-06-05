@@ -1,9 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-
+(mod2)=
 # [Module 2: Exploring water quality for bull trout reintroduction](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod2_water)
 
 Water is a valuable resource that is important for maintaining many aspects of a community’s well being. “Water quality” captures many components of the chemistry, biology, and physics of fresh water. In this module, we will study data about two of these components, water temperature (T) and dissolved oxygen (DO).

@@ -6,12 +6,14 @@ root: intro
 parts:
   - caption: Introduction
     chapters:
-      - file: contact
+      - file: about_us
         title: "About us"
-      - file: learn_R
-        title: "Getting started"
       - file: kavi_intro
         title: Story of K'avi code 
+      - file: getting_started
+        title: "Getting started"
+      - file: instructor_notes
+        title: "Instructor Notes"
   - caption: "Environmental Justice Data Science Modules"
     chapters:
       - file: MOD1/mod1_intro

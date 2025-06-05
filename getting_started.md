@@ -1,10 +1,13 @@
 
 # Getting Started 
 
-This content is an open resource for use in whichever platform is most accessible to you. The programming language we use is R, but it can be ran on any of these options: Google Colab, JupyterHub, or in Rstudio. See more details here on how to access these.
+This content is an open resource for use in whichever platform is most accessible to you. The programming language we use is R, but it can be ran on any of these options: [](google-colab-label), [](jupyter-notebook-label), or in [](rstudio-label). See more details below on how to access these.
+
+This material is also designed to be either self guided or instructor led. For either option, learners can work through the material and refer to the answer keys. See [](instructor-notes-label) for further information.  
 
 **Link to Victoria's slides here as: Teacher's guide for setting up R and Rstudio with code from Github, also add to references at bottom**
 
+(google-colab-label)=
 ## Google Colab 
 
 Google Colab is a free web based platform for running and sharing code. In the following pages, you'll be able to open any page with code on it in Google Colab using the rocketship icon in the upper right hand corner. 
@@ -14,14 +17,22 @@ Google Colab is a free web based platform for running and sharing code. In the f
 
 Read more about Google Colab [here](https://research.google.com/colaboratory/faq.html).
 
+(jupyter-notebook-label)=
 ## Jupyter Notebook 
 
-Jupyter Notebook is a web application for computational documents (you can identify these file types that end in `.ipynb`). Note that if using on your personal computer, you will need to have the [R kernel](https://github.com/IRkernel/IRkernel) installed. 
+Jupyter Notebook is a web application for computational documents (you can identify these file types that end in `.ipynb`). You can directly download the .ipynb files from the pages by going to the top right and selecting from the download icon. 
+
+![](images/download_button.png)
+
+You can also access or download the .ipynb files directly from our [github repository](https://github.com/IndigenousEnvDataSci/IndigenousEnvDataSci.github.io). 
+
+Note that if using on your personal computer, you will need to have the [R kernel](https://github.com/IRkernel/IRkernel) installed. 
 
 This is a good option if your university already has a JupyterHub that you have access to. 
 
 Read more about Jupyter Notebook [here](https://jupyter.org/). 
 
+(rstudio-label)=
 ## R and RStudio 
 
 If you do not already have R and Rstudio on your computer, you will need to download them. If you do have them, start at step 3, installing and loading the packages. 
@@ -41,7 +52,7 @@ About Rmarkdown.
         - **Mac**: Double-click the .dmg file; this will open a new window in your desktop. Drag the RStudio icon to the Applications folder to install it in your computer.
 
 
-3. Install packages used in this workshop. Within R, researchers have developed “packages” that group together code and functions to allow you to easily perform different types of computing tasks. You’ll need to use multiple packages during the module activities, and it will be easiest to go ahead and install all of them ahead of time.
+3. Install packages used in these modules. Within R, researchers have developed “packages” that group together code and functions to allow you to easily perform different types of computing tasks. You’ll need to use multiple packages during the module activities, and it will be easiest to go ahead and install all of them ahead of time.
 
 Now that R and RStudio are installed, open RStudio. The default window on the left of the screen is called the Console, and you can write commands in this window. The two windows on the right include tabs that you can view to see the history of code you’ve already run and your workspace, plots of figures you’ve made with your code, packages you’ve installed, and the files you have open in your working directory.
 
@@ -61,6 +72,12 @@ library(lubridate)
 To check if the packages have installed correctly, navigate over to the “Packages” tab in the bottom right window of RStudio and see if there is a checked box next to tidyverse, janitor, and lubridate. Note that different workshops may require different packages, and you can always run `install.packages()` and `library()` to get new ones. 
 
 After loading `tidyverse` you may receive a message in your console about conflicts - this means that there are functions with the same name but from different packages. For these activities, it should not matter because we will mainly be using `tidyverse`. You will need to rerun loading the packages each time you restart RStudio, and you'll find the first step in our workflows always start with that.  
+
+4. Download material from github. The material from this site can be downloaded as R markdown files, or files that contain both text and code that can be opened in Rstudio. Using this repository: [github.com/IndigenousEnvDataSci/EJ-DS](https://github.com/IndigenousEnvDataSci/EJ-DS), download the code by either copying the url to create an R project or download the zip file. 
+
+![](images/github-repo-screenshot.png)
+
+See our [instructor's demo slides](https://www.canva.com/design/DAGjgAcD7NU/nMGGZvbrTeUeUVP42gQvdQ/view?utm_content=DAGjgAcD7NU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1ffc817fbc) for a step by step tutorial on setting up a project in R with a github repository.
 
 **References**
 

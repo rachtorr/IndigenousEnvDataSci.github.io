@@ -1,3 +1,4 @@
+(mod1)=
 # [Module 1: Monitoring fisheries for heavy metal contaminants](https://github.com/IndigenousEnvDataSci/EJ-DS/tree/main/Mod1_Fish)
 
 Members of the K'avi have fished the waters on their land for many years to provide food for their community. To manage these waters, K'avi tribal fishery managers have been monitoring fish growth rates across the local water bodies in their community. 
